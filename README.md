@@ -19,4 +19,4 @@
 
 ### Filters & Slicers
 
-#### Interactive slicers to filter data by state and quarter
+#### Slicers to filter data by state and quarter.
