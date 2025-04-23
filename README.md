@@ -13,9 +13,9 @@
 
 ### Bar Charts
 
-#### 1. Profit by Month (Seasonality and monthly trends)
+#### 1. Profit by Month
 
-#### 2. Profit by Sub-Category (Top-performing sub-categories)
+#### 2. Profit by Sub-Category
 
 ### Filters & Slicers
 
